@@ -1,0 +1,53 @@
+{
+  "blur-sm": {
+    "style": {
+      "blurRadius": 90
+    }
+  },
+  "elevate-1": {
+    "style": {
+      "shadowOffset": { "width": 0, "height": 0 },
+      "shadowColor": "black",
+      "shadowOpacity": 0.25,
+      "shadowRadius": 4,
+      "elevation": 4
+    }
+  },
+  "aspectRatio-1": {
+    "style": {
+      "aspectRatio": 1
+    }
+  },
+  "aspectRatio-1.6": {
+    "style": {
+      "aspectRatio": 1.6
+    }
+  },
+  "aspectRatio-0.6": {
+    "style": {
+      "aspectRatio": 0.58
+    }
+  },
+  "w-18": {
+    "style": {
+      "width": 72
+    }
+  },
+  "h-34": {
+    "style": {
+      "height": 134
+    }
+  },
+  "py-1.5": {
+    "style": {
+      "paddingTop": 6,
+      "paddingBottom": 6
+    }
+  },
+  "px-4.5": {
+    "style": {
+      "paddingLeft": 18,
+      "paddingRight": 18
+    }
+  }
+}
